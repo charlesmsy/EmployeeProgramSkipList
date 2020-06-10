@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{20A9A582-A105-48B8-8B87-9697EB9CC909}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Program.cs" Line="2" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeProgramSkipList" expanded="True">
+            <Node name="EmployeeProgramSkipList" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.EmployeeProgramSkipList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

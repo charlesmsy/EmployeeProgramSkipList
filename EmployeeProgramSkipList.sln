@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeProgramSkipList", "EmployeeProgramSkipList\EmployeeProgramSkipList.csproj", "{20A9A582-A105-48B8-8B87-9697EB9CC909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A9A582-A105-48B8-8B87-9697EB9CC909}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{20A9A582-A105-48B8-8B87-9697EB9CC909}.Debug|anycpu.Build.0 = Debug|anycpu
+		{20A9A582-A105-48B8-8B87-9697EB9CC909}.Release|anycpu.ActiveCfg = Release|anycpu
+		{20A9A582-A105-48B8-8B87-9697EB9CC909}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
